@@ -3,8 +3,7 @@ package package01;
 public class class01 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+	System.out.println(" ercan add it ");
 	}
 
 }
